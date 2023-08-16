@@ -5,11 +5,7 @@ con_mode=$(cat "$conservation_mode_location")
 on="1"
 off="0"
 
-echo "================ CONSERVATION MODE ================
-Author: Bayu Eka Prawira
-Email: bayueka980@gmail.com
-Github: gluten111840
-==================================================="
+echo "================ CONSERVATION MODE ================"
 
 if [[ $con_mode -eq $on ]]; then
     echo "Currently, the conservation mode is ON
