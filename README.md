@@ -1,6 +1,6 @@
 # Linux-Based Script for Conservation Mode Lenovo
 
-Currently, this script is only for Lenovo Ideapad series and will be updated for other Lenovo series soon.
+This script is suitable for any Lenovo laptops which use Ubuntu and its flavours
 
 ## How to use this script?
 1. Clone this repository in your Lenovo Ideapad series laptop
